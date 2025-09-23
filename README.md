@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ForrestGump-J/ForrestGump-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yup. That's me. Welcome to my GitHub page.
 
-Here are some ideas to get you started:
+ABOUT ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Job-wise:
+- 2nd year college student at De La Salle University-Dasmarinas
+- Bachelor of Science in Computer Science
+- Languages learned (still learning): Java, Python, HTML, CSS, JavaScript
+- Also learning UI/UX design through Figma
+- Formerly locked in on becoming a game developer, now considering another career path like data science or UI/UX and just doing game developing as a side hobby
+- Slight WordPress experience through managing Heraldo Filipino's website
+  
+Personal:
+- Never been outside the Philippines
+- Casual gamer, formerly hardcore
+- Crypto investor since start of Feb. 2025
+- Practicing PhotoShop and guitar (PhotoShop for side-gig, both on-and-off due to school)

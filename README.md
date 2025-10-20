@@ -9,7 +9,7 @@ Job-wise:
 - Bachelor of Science in Computer Science
 - Languages learned (still learning): Java, Python, HTML, CSS, JavaScript
 - Also learning UI/UX design through Figma
-- Formerly locked in on becoming a game developer, now considering another career path like data science or UI/UX and just doing game developing as a side hobby
+- Formerly locked in on becoming a game developer, now considering another career path like web, cloud, or UI/UX and just doing game developing as a side hobby
 - Slight WordPress experience through managing Heraldo Filipino's website
   
 Personal:

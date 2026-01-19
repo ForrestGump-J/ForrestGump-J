@@ -18,5 +18,5 @@ Personal:
 - Crypto investor since start of Feb. 2025
 - Practicing PhotoShop and guitar (PhotoShop for side-gig, both on-and-off due to school)
 
-**Software/Languages Used:
+**Software/Languages Used:**
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,py,js,java,git,figma)](https://skillicons.dev)<br/>

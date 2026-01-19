@@ -20,4 +20,4 @@ Personal:
 
 # Software/Languages Used 🤖
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,py,js,java,git,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,py,js,java,git,figma,sql)](https://skillicons.dev)<br/>

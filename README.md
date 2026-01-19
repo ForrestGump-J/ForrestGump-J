@@ -20,4 +20,9 @@ Personal:
 
 # Software/Languages Used 🤖
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,py,js,java,git,figma,sql)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,py,js,java,git,figma,mysql,vscode)](https://skillicons.dev)<br/>
+
+# My Stats ⏫
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForrestGump-J&show_icons=true&theme=dracula)
+
+I'm still slightly new to this (only started actively using it in December 2025), but I'll get better.
